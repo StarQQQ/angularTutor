@@ -1,0 +1,43 @@
+.login-page {
+  width: 360px;
+  padding: 10% 0 0;
+  margin: auto;
+}
+.form {
+  position: relative;
+  background: white;
+  max-width: 360px;
+  margin: 0 auto;
+  /*form 之间的行距*/
+  padding: 65px;
+  text-align: center;
+
+}
+.form input {
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 10px;
+}
+.form button {
+  background: #4CAF50;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+
+}
+.container {
+  position: relative;
+  max-width: 300px;
+  margin: 0 auto;
+}
+.foot {
+  margin: fill;
+  padding-bottom: 400px;
+}
+body {
+  background-color: lightgreen;
+}
